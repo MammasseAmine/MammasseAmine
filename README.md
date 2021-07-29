@@ -9,7 +9,7 @@
  - G-mail ==> amineholden2016@gmail.com
 
  ## I'm open to collaborate and teach you on :
-<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="drawing" width="200" title="Html 5" height="64"/>
+<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="drawing" width="200" title="Html 5" height="128" width="128"/>
  
 <!---
 MammasseAmine/MammasseAmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
