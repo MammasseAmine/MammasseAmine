@@ -9,7 +9,7 @@
  - G-mail ==> amineholden2016@gmail.com
 
  ## I'm open to collaborate and teach you on :
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="32"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="64" title="HTML5"/>
  
 <!---
 MammasseAmine/MammasseAmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
