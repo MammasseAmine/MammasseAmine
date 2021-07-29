@@ -11,7 +11,7 @@
  ## I'm open to collaborate and teach you on :
 ![HTML5](https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png "HTML5")
 
-![CSS3](https://cdn.worldvectorlogo.com/logos/css-3.svg=64*64 "CSS3")
+![CSS3](https://cdn.worldvectorlogo.com/logos/css-3.svg=64*64 "CSS3"){ width=50%,height=50% }
  
 <!---
 MammasseAmine/MammasseAmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
