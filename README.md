@@ -29,7 +29,7 @@
  
 <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="64" width="64" title="Latex" />
 </p>
-
+## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MammasseAmine)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 MammasseAmine/MammasseAmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
