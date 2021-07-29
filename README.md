@@ -5,7 +5,8 @@ Hi, Great to see you im my GitHub profile
 - :eyeglasses: Actually i'am Learning MERN To add MERN Fullstack to my CV
 
 :calling:	Contact me on 
- -[Facebook ](https://www.facebook.com/amine.davide.96)
+ - [Facebook](https://www.facebook.com/amine.davide.96)
+ - [G-mail](amineholden2016@gmail.com)
 
 
 <!---
