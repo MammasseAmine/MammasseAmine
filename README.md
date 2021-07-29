@@ -9,9 +9,10 @@
  - G-mail ==> amineholden2016@gmail.com
 
  ## I'm open to collaborate and teach you on :
-![HTML5](https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png "HTML5")
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="64" title="HTML5"/>
 
-![CSS3](https://cdn.worldvectorlogo.com/logos/css-3.svg=64*64 "CSS3"){ width=50%,height=50% }
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="64" title="CSS3"/>
+
  
 <!---
 MammasseAmine/MammasseAmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
