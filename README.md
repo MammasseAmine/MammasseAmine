@@ -13,12 +13,20 @@
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="64" title="HTML5"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="70" width="64" title="CSS3" />
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="64" width="64" title="Bootstrap" />
+ 
 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="64" width="64" title="PHP" />
+ 
  
 <img src ="https://cdn.worldvectorlogo.com/logos/flask.svg" height="64" width="64" title="Flask" />
 
 <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" height="64" width="64" title="Django" />
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="64" width="64" title="JAVA" />
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="64" width="64" title="Latex" />
 </p>
  
 <!---
