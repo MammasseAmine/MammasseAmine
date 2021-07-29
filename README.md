@@ -10,11 +10,15 @@
 
  ## I'm open to collaborate and teach you on :
 <p float="left">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="64" title="HTML5" style="display: inline;" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="64" title="HTML5"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="70" width="64" title="CSS3" style="display: inline;" />
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="70" width="64" title="CSS3" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="64" width="64" title="JavaScript" style="display: inline;" />
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="64" width="64" title="PHP" />
+ 
+<img src ="https://cdn.worldvectorlogo.com/logos/flask.svg" height="64" width="64" title="Flask" />
+
+<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" height="64" width="64" title="Django" />
 </p>
  
 <!---
