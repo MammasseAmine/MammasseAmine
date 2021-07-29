@@ -9,9 +9,9 @@
  - G-mail ==> amineholden2016@gmail.com
 
  ## I'm open to collaborate and teach you on :
- <span>
+
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="64" width="64" title="HTML5" style="display: inline;" />
-</span>
+
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="64" title="CSS3" style="display: inline;" />
 
  
