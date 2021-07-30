@@ -21,6 +21,9 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="64" width="64" title="PHP" />
  
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" height="64" width="64" title="Git" />
+
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="64" width="64" title="GitHub" />
  
 <img src ="https://cdn.worldvectorlogo.com/logos/flask.svg" height="64" width="64" title="Flask" />
 
