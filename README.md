@@ -36,6 +36,8 @@
 
  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="64" width="64" title="React" />
  
+ <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="64" width="64" title="Redux" />
+ 
  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="64" width="64" title="MongoDB" />
  
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="64" width="64" title="NodeJS" />
