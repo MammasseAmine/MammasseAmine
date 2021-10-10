@@ -33,6 +33,14 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" height="64" width="64" title="Django" />
  
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="64" width="64" title="JAVA" />
+
+ <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="64" width="64" title="React" />
+ 
+ <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="64" width="64" title="MongoDB" />
+ 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="64" width="64" title="NodeJS" />
+ 
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="64" width="64" title="ExpressjS" />
  
 <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="64" width="64" title="Latex" />
 </p>
