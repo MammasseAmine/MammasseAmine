@@ -3,7 +3,7 @@
 - :frowning_man: My name is Mammasse Amine
 - 🏳 From Algeria  
 - :man_technologist: i'm interested in Web Development
-- :eyeglasses: Actually i'am Learning MERN To add MERN Fullstack to my CV
+- :eyeglasses: Actually i'am Learning Framer Motion
 
 ## :calling:	Contact me on 
  - [Facebook](https://www.facebook.com/amine.davide.96)
