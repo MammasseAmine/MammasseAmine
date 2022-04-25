@@ -3,7 +3,7 @@
 - :frowning_man: My name is Mammasse Amine
 - 🏳 From Algeria  
 - :man_technologist: i'm interested in Web Development
-- :eyeglasses: Actually i'am Learning Framer Motion
+- :eyeglasses: Actually i'am Learning NextJS
 
 ## :calling:	Contact me on 
  - [Facebook](https://www.facebook.com/amine.davide.96)
@@ -44,7 +44,9 @@
  
   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="64" width="64" title="ExpressjS" />
  
-<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="64" width="64" title="Latex" />
+  <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="64" width="64" title="Latex" />
+ 
+  <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" height="64" width="64" title="Framer Motion" />
 </p>
 
 ## My GitHub Stats
